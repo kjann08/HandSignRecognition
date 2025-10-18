@@ -12,6 +12,6 @@ It supports special gestures for **SPACE** and **BACKSPACE**, making it possible
 - Frame buffering for smooth predictions
 - Easy to extend for custom gestures
 
--
+
 
 
