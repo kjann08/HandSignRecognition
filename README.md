@@ -45,14 +45,15 @@ Training techniques used:
 ## 🛠 System Workflow
 
 Live Webcam Feed
-       ↓
+       ->
 Hand ROI Detection (OpenCV)
-       ↓
+       ->
 Image Preprocessing (Resize, Normalize)
-       ↓
+       ->
 CNN Model Inference
-      ↓
+       ->
 Predicted Gesture
+
 
 
 
